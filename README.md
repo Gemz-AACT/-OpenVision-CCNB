@@ -1,0 +1,3 @@
+This project involved the technical and methodological approach to replace the existing PRTG monitoring solution with an open-source supervision platform at CCNB. The primary goal was to enhance the monitoring of IT infrastructure by ensuring the availability, performance, and reliability of critical services.
+
+The main objective was to migrate to a robust, scalable, and license-free solution capable of supervising over 1,000 sensors distributed across various services, including Wi-Fi, WAN, VPN, firewalls, and servers. The project covered technology selection, installation, configuration, and integration phases. Additionally, real-time data visualization dashboards were developed using Grafana to improve data accessibility and operational insight.
